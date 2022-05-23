@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610907127 source:c:\users\pratham gupta\desktop\new folder\c program\file zipper\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdlib>
+
